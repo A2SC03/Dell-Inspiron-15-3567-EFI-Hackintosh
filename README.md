@@ -2,7 +2,7 @@
 
 EFI Folder for Dell Inspiron 15 3567 with 6th Gen i3 with Clover UEFI
  
-<img src="/Images/Sept-MacBook-Images.png?raw=true" alt="macOS Mojave" align="center">
+<img src="/Image/Screenshot.png?raw=true" alt="MacOS Catalina 10.15.6" align="center">
  
 ### How to Get it?
 
