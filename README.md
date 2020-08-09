@@ -6,7 +6,7 @@ EFI Folder for Dell Inspiron 15 3567 with 6th Gen i3 with Clover UEFI
  
 ### How to Get it?
 
-- Open Terminal with Command: $ `git clone https://github.com/MrRitwik97/Dell-Inspiron-15-3567-Hackintosh-EFI.git`
+- Open Terminal with Command: $ `git clone https://github.com/MrRitwik97/Dell-Inspiron-15-3567-EFI-Hackintosh.git`
  
 --------------------------------------------------------------------------------------------
  
